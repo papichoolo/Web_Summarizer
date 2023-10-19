@@ -1,7 +1,9 @@
 
-# Web Summarizer
+# Web Summarizer 
 
 The **Web Summarizer** is a Streamlit application that allows users to access concise summaries of Wikipedia articles. It streamlines the process of researching and gaining knowledge by providing abridged versions of extensive articles, making it an efficient and accessible tool for information retrieval.
+
+App Link: ()[https://websummarizer.streamlit.app/]
 
 ## Features
 
